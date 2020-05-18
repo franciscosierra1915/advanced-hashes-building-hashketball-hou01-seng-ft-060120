@@ -13,7 +13,8 @@ def game_hash
         :Assists => 12,
         :Steals => 3,
         :Blocks => 1,
-        :Slam_dunks => 1 }]
+        :Slam_dunks => 1 },
+        ]
     },
     
     :away => {
