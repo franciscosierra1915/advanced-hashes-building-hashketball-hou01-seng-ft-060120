@@ -14,7 +14,7 @@ def game_hash
         :Steals => 3,
         :Blocks => 1,
         :Slam_dunks => 1 },
-        ]
+        {}]
     },
     
     :away => {
