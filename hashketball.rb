@@ -2,9 +2,10 @@
 def game_hash
   game_big_hash = {
     :home => {
-      :team_name => "Houston_Rockets",
-      :colors, 
-      :players
+      :team_name => "Brooklyn Nets",
+      :colors => ["Black, "White"], 
+      :players =>[{
+        ]
     },
     :away => {}
     
