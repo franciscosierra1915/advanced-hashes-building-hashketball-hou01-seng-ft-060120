@@ -5,6 +5,21 @@ def game_hash
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"], 
       :players => [
+        {:Player_name => "Alan Anderson",
+        :Number => 0, 
+        :Shoe => 16, 
+        :Points => 22,
+        :Rebounds => 12,
+        :Assists => 12,
+        :Steals => 3,
+        :Blocks => 1,
+        :Slam_dunks => 1 }]
+    },
+    
+    :away => {
+      :team_name => "Charlotte Hornets",
+      :colors => ["Turquoise", "Purple"], 
+      :players => [
         {:Player_name => "Jeff Adrien",
         :Number => 4, 
         :Shoe => 18, 
@@ -14,9 +29,7 @@ def game_hash
         :Steals => 2,
         :Blocks => 7,
         :Slam_dunks => 2 }]
-    },
-    
-    :away => {}
+    }
     
     
     
