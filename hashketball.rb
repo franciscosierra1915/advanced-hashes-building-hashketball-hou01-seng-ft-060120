@@ -5,7 +5,7 @@ def game_hash
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"], 
       :players => [
-        {:Player_name => "Alan Anderson",
+        {:Player_name => Alan Anderson,
         :Number => 0, 
         :Shoe => 16, 
         :Points => 22,
